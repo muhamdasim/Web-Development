@@ -2,10 +2,23 @@ This project is currently in process and have the following functionalities till
 
 -----------------Portal System------------------------------------------------------
 
-1: Sign Up option
-2: Connected and integerated with Database ( MYSQL)
-3: Javascript is implemented.
-4: Use of CSS for designs.
+Goal:
+
+Login Page (CSS + PHP + Database + Javascript);
+Create Account Page (CSS + PHP + Database+ Javascript);
+Lost Password Page ( CSS + PHP + Database + Javascript);
+and more
+
+
 
 
 Currently it is connected to the local database or xammp server.
+
+
+Current Progress:
+
+Login Page is ready.
+Create Account Page is almost completed (JS left);
+
+
+
