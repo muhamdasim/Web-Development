@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
     <link rel="stylesheet" , type="text/css" , href="create-account.css">
+
     <title>Create Account</title>
+    <script src="create-account.js"></script>
+
 </head>
 <body>
     <div class="loginbox">
         <img src="avatar.png" class="avatar">
         <h1>Create Account</h1>
-        <form name="create_account" action="create-account.php" method="post">
+        <form name="create.Account" onsubmit="return createAccount()" action="create-account.php" method="post" required >
             <input type="text" name="firstName" placeholder="First Name">
             <input type="text" name="lastName" placeholder="Last Name">
             <input type="text" name="username" placeholder="Enter your username">
