@@ -12,13 +12,13 @@ and more
 
 
 
-Currently it is connected to the local database or xammp server.
+Currently, it is connected to the local database or xammp server.
 
 
 Current Progress:
 
 Login Page is ready.
-Create Account Page is almost completed (JS left);
+Create Account Page is ready.
 
 
 
