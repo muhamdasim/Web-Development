@@ -10,7 +10,6 @@
         
     <h1>Wrong Details</h1>
         <br> <br><br> <br><br> <br>
-        <h1>Fuck You</h1>
         
     </div>
 
